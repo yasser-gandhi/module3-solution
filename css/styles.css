@@ -20,6 +20,11 @@ body{
     border-bottom: 3px solid black;
 }
 
+#nav-list li{
+	text-align: center;
+	font-weight: 600;
+}
+
 .navbar-brand {
     padding-top: 20px;
   }
